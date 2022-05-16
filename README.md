@@ -1,8 +1,8 @@
 # crawler
 
-```php
-Requirements.txt
 
+### Requirements
+```
 Selenium
 Chrome
 ChromeDriverManager
